@@ -1,0 +1,4 @@
+conda create -n my-env
+conda activate my-env
+conda config --env --add channels conda-forge
+conda install numpy
