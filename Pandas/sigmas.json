@@ -1,0 +1,34 @@
+{
+
+"Name" : {
+  "0" : "Tom Hanks",
+  "1" : "Christian Bale",
+  "2" : "Robert Pattinson",
+  "3" : "Cilian Murphy",
+  "4" : "Leonardo Decario"
+ },
+ "Casting" : {
+  "0" : "1.2M",
+  "1" : "1.4M",
+  "2" : "1.4M",
+  "3" : "2.0M",
+  "4" : "1.98M"
+ },
+ 
+ "Best Movie" : {
+  "0" : "Forest Gump",
+  "1" : "American Psycho",
+  "2" : "Dark Night",
+  "3" : "Openheimer",
+  "4" : "Inception"
+ },
+"Origin" : {
+  "0" : "United States",
+  "1" : "United Kingdom",
+  "2" : "United Kingdom",
+  "3" : "United Kingdom",
+  "4" : "United States"
+ }
+ }
+
+
